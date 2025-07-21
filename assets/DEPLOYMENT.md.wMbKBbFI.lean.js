@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as e,ae as l}from"./chunks/framework.5P7bu-81.js";const k=JSON.parse('{"title":"文档部署指南","description":"","frontmatter":{},"headers":[],"relativePath":"DEPLOYMENT.md","filePath":"DEPLOYMENT.md"}'),t={name:"DEPLOYMENT.md"};function n(h,a,o,p,d,r){return e(),i("div",null,a[0]||(a[0]=[l("",35)]))}const u=s(t,[["render",n]]);export{k as __pageData,u as default};
